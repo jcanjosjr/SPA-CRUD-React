@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Vanessa Lechuk",
+      "email": "vanessalsilvano@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Jose Carlos dos Anjos Junior",
+      "email": "josec.dosanjos@gmail.com",
+      "id": 3
+    }
+  ]
+}
